@@ -1,121 +1,1666 @@
-"Country";"2011";"2011";"2012";"2012";"2013";"2013";"2014";"2014";"2015";"2015";"2016";"2016";"2017";"2017"
-"Country";"Ind 1";"Ind 2";"Ind 1";"Ind 2";"Ind 1";"Ind 2";"Ind 1";"Ind 2";"Ind 1";"Ind 2";"Ind 1";"Ind 2";"Ind 1";"Ind 2"
-"Afghanistan";"1";"1";"1";"1";"1";"0";"1";"0";"0";"0";"1";"1";"0";"1"
-"Albania";"0";"1";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"1";"1"
-"Algeria";"0";"1";"0";"0";"0";"1";"0";"0";"0";"1";"0";"0";"0";"1"
-"Angola";"1";"0";"0";"1";"0";"1";"0";"1";"1";"1";"0";"1";"0";"0"
-"Argentina";"0";"0";"0";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"0"
-"Armenia";"0";"0";"0";"0";"1";"0";"0";"0";"0";"0";"1";"1";"1";"0"
-"Australia";"1";"0";"1";"1";"0";"1";"0";"1";"0";"0";"0";"1";"0";"0"
-"Austria";"0";"1";"1";"1";"1";"0";"0";"0";"1";"0";"1";"0";"1";"0"
-"Bangladesh";"0";"0";"0";"0";"1";"0";"1";"1";"1";"1";"0";"0";"0";"0"
-"Belarus";"1";"1";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"1";"1"
-"Belgium";"0";"1";"1";"0";"1";"1";"0";"0";"1";"0";"1";"0";"1";"1"
-"Bhutan";"1";"1";"0";"0";"1";"1";"1";"0";"1";"1";"0";"0";"0";"1"
-"Bolivia";"1";"0";"1";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"0"
-"Bosnia";"1";"1";"1";"0";"1";"0";"1";"0";"0";"0";"1";"0";"1";"0"
-"Botswana";"0";"0";"1";"1";"0";"1";"0";"1";"0";"1";"0";"0";"1";"1"
-"Brazil";"0";"0";"0";"0";"0";"1";"0";"1";"0";"1";"0";"1";"0";"1"
-"Brunei";"0";"0";"0";"0";"0";"1";"0";"1";"0";"1";"1";"0";"0";"0"
-"Bulgaria";"0";"1";"1";"0";"1";"0";"1";"0";"1";"0";"1";"0";"1";"1"
-"Burundi";"1";"0";"0";"1";"0";"0";"0";"1";"0";"1";"1";"1";"0";"0"
-"Cambodia";"1";"0";"0";"0";"0";"0";"0";"1";"0";"0";"0";"1";"0";"1"
-"Cameroon";"0";"0";"0";"0";"0";"1";"0";"1";"0";"1";"0";"0";"0";"1"
-"Canada";"0";"1";"0";"1";"0";"0";"0";"0";"0";"0";"0";"1";"1";"0"
-"Chad";"1";"1";"0";"0";"1";"1";"0";"1";"0";"1";"0";"0";"0";"1"
-"Chile";"1";"0";"0";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"0"
-"China";"1";"1";"1";"1";"0";"0";"0";"0";"1";"0";"1";"0";"1";"1"
-"Colombia";"0";"0";"0";"1";"0";"1";"0";"1";"0";"1";"0";"0";"0";"1"
-"Congo";"0";"0";"0";"1";"0";"1";"1";"1";"1";"1";"0";"1";"0";"1"
-"Costa Rica";"1";"0";"0";"1";"0";"0";"1";"1";"0";"1";"0";"1";"0";"0"
-"Croatia";"0";"1";"1";"0";"1";"0";"1";"0";"0";"0";"1";"0";"1";"1"
-"Ctr Afr Rep";"1";"1";"0";"1";"1";"0";"1";"1";"0";"0";"0";"0";"0";"1"
-"Cyprus";"0";"1";"0";"0";"1";"1";"1";"0";"0";"0";"1";"0";"0";"1"
-"Czech Republic";"0";"1";"1";"0";"0";"0";"0";"0";"1";"0";"1";"0";"1";"0"
-"Denmark";"1";"1";"1";"1";"0";"0";"0";"1";"1";"1";"1";"1";"0";"0"
-"Djibouti";"1";"1";"1";"0";"0";"0";"0";"1";"0";"0";"0";"0";"0";"1"
-"Dominican Rep";"1";"0";"0";"1";"0";"1";"1";"1";"1";"1";"0";"1";"1";"0"
-"Ecuador";"0";"0";"0";"0";"0";"1";"1";"1";"0";"1";"0";"0";"0";"0"
-"El Salvador";"0";"0";"0";"1";"0";"1";"0";"1";"0";"1";"0";"0";"0";"0"
-"Eq. Guinea";"1";"0";"1";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"1"
-"Estonia";"1";"1";"1";"1";"1";"0";"1";"0";"0";"0";"1";"1";"0";"0"
-"Eswatini";"1";"0";"0";"0";"0";"0";"1";"1";"1";"1";"0";"1";"1";"0"
-"Fiji";"1";"0";"0";"0";"0";"0";"0";"1";"0";"0";"0";"0";"0";"1"
-"Finland";"1";"1";"1";"1";"0";"0";"1";"0";"1";"1";"1";"1";"1";"1"
-"France";"0";"1";"1";"0";"1";"1";"0";"0";"1";"0";"1";"0";"1";"0"
-"Gabon";"0";"0";"0";"0";"0";"1";"0";"1";"0";"1";"0";"0";"0";"1"
-"Gambia";"1";"0";"0";"0";"0";"1";"1";"0";"1";"0";"0";"0";"0";"0"
-"Georgia";"0";"1";"0";"0";"1";"1";"0";"0";"0";"0";"0";"0";"1";"1"
-"Germany";"0";"1";"1";"0";"1";"0";"0";"0";"1";"0";"1";"0";"1";"1"
-"Ghana";"0";"0";"0";"1";"0";"1";"1";"1";"0";"1";"0";"0";"0";"1"
-"Greece";"0";"1";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"0";"1"
-"Guatemala";"0";"0";"0";"0";"0";"1";"0";"1";"0";"1";"0";"0";"0";"1"
-"Honduras";"0";"0";"0";"0";"0";"1";"1";"1";"0";"1";"0";"0";"0";"1"
-"Hong Kong";"1";"1";"1";"0";"0";"0";"1";"0";"1";"0";"1";"1";"1";"0"
-"Hungary";"0";"1";"1";"0";"1";"1";"0";"0";"1";"0";"1";"0";"1";"0"
-"India";"0";"0";"1";"0";"0";"0";"0";"0";"0";"0";"0";"0";"1";"0"
-"Indonesia";"1";"0";"0";"1";"0";"0";"0";"0";"1";"1";"1";"1";"0";"1"
-"Ireland";"0";"0";"0";"1";"1";"0";"1";"1";"1";"1";"1";"1";"0";"0"
-"Israel";"1";"1";"1";"1";"1";"1";"0";"0";"1";"0";"1";"1";"1";"0"
-"Italy";"0";"1";"1";"0";"1";"0";"0";"0";"1";"0";"1";"0";"1";"0"
-"Kazakhstan";"0";"1";"1";"1";"1";"0";"1";"0";"0";"0";"1";"1";"1";"1"
-"Kenya";"0";"0";"0";"1";"0";"1";"0";"1";"0";"1";"0";"0";"0";"1"
-"Korea Rep";"0";"1";"1";"0";"0";"0";"0";"0";"1";"1";"1";"1";"0";"0"
-"Kosovo";"0";"1";"1";"0";"1";"0";"1";"0";"1";"0";"1";"0";"1";"0"
-"Kuwait";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0"
-"Kyrgyz Rep";"1";"0";"1";"0";"0";"0";"0";"0";"0";"0";"1";"1";"1";"0"
-"Latvia";"1";"1";"1";"1";"1";"0";"1";"0";"1";"0";"0";"1";"1";"0"
-"Lebanon";"1";"0";"1";"1";"1";"0";"0";"1";"1";"1";"1";"1";"1";"0"
-"Lesotho";"1";"0";"0";"1";"0";"0";"1";"1";"1";"1";"0";"1";"0";"1"
-"Lithuania";"1";"1";"1";"1";"1";"0";"1";"0";"1";"1";"0";"0";"1";"0"
-"Luxembourg";"0";"1";"1";"1";"1";"0";"0";"0";"1";"1";"1";"1";"1";"1"
-"Macao";"1";"1";"0";"0";"0";"0";"0";"1";"1";"0";"1";"1";"0";"0"
-"Macedonia";"0";"1";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"1";"1"
-"Madagascar";"0";"0";"0";"0";"0";"1";"1";"1";"0";"1";"0";"0";"0";"0"
-"Malaysia";"1";"0";"0";"0";"0";"1";"0";"1";"0";"0";"0";"0";"0";"1"
-"Malta";"0";"1";"1";"0";"1";"0";"0";"0";"1";"1";"1";"0";"1";"1"
-"Mauritius";"0";"0";"1";"1";"0";"0";"0";"1";"1";"1";"0";"1";"0";"0"
-"Mexico";"0";"0";"0";"0";"0";"1";"0";"1";"0";"1";"0";"0";"0";"1"
-"Moldova";"1";"1";"1";"0";"1";"1";"0";"0";"1";"0";"1";"1";"0";"1"
-"Namibia";"0";"0";"0";"0";"0";"1";"1";"1";"0";"1";"0";"0";"0";"1"
-"Netherlands";"0";"1";"1";"1";"0";"0";"1";"0";"1";"0";"1";"1";"1";"0"
-"Nicaragua";"1";"0";"0";"1";"0";"0";"1";"1";"0";"1";"0";"1";"0";"0"
-"Nigeria";"1";"1";"0";"1";"0";"0";"0";"1";"1";"1";"0";"0";"0";"0"
-"Norway";"1";"1";"1";"1";"0";"0";"1";"0";"1";"1";"1";"1";"1";"0"
-"P. N. Guinea";"1";"0";"0";"0";"1";"0";"1";"1";"0";"1";"0";"0";"1";"1"
-"Pakistan";"1";"1";"1";"1";"1";"0";"1";"0";"1";"0";"0";"0";"1";"0"
-"Panama";"0";"0";"0";"0";"0";"1";"0";"1";"0";"1";"0";"1";"0";"1"
-"Paraguay";"0";"0";"0";"1";"0";"1";"0";"1";"0";"1";"0";"1";"0";"0"
-"Peru";"1";"0";"0";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"1"
-"Philippines";"0";"0";"1";"0";"0";"0";"0";"1";"0";"1";"0";"0";"0";"0"
-"Poland";"0";"1";"1";"0";"1";"1";"0";"0";"1";"0";"1";"0";"1";"1"
-"Portugal";"0";"1";"1";"1";"0";"0";"0";"0";"0";"1";"0";"0";"1";"0"
-"Romania";"0";"1";"1";"0";"1";"1";"1";"0";"1";"0";"1";"0";"1";"0"
-"Russia";"0";"1";"1";"1";"1";"0";"0";"0";"0";"0";"1";"1";"1";"1"
-"Rwanda";"0";"0";"0";"1";"0";"0";"1";"1";"0";"1";"0";"1";"0";"0"
-"San Marino";"0";"1";"1";"1";"1";"1";"0";"0";"1";"0";"0";"0";"1";"0"
-"Saudi Arabia";"1";"1";"1";"1";"1";"1";"0";"0";"1";"1";"1";"1";"1";"0"
-"Seychelles";"1";"1";"0";"0";"1";"0";"0";"1";"1";"1";"1";"0";"0";"0"
-"Singapore";"1";"0";"1";"1";"0";"0";"0";"1";"1";"1";"0";"1";"0";"0"
-"Slovak Rep";"0";"1";"1";"0";"1";"1";"0";"0";"1";"0";"1";"0";"1";"1"
-"Slovenia";"0";"1";"1";"0";"0";"0";"1";"0";"1";"1";"1";"1";"0";"0"
-"Solomon";"1";"1";"0";"0";"0";"0";"0";"1";"0";"0";"1";"1";"0";"0"
-"South Africa";"1";"0";"0";"1";"0";"0";"1";"1";"0";"1";"0";"1";"0";"0"
-"Spain";"0";"1";"0";"0";"1";"1";"1";"0";"1";"0";"1";"0";"1";"0"
-"Sri Lanka";"1";"1";"1";"0";"0";"0";"0";"0";"0";"1";"1";"1";"1";"0"
-"Sweden";"1";"1";"1";"1";"1";"0";"1";"1";"1";"1";"0";"1";"0";"0"
-"Switzerland";"0";"1";"1";"0";"1";"1";"0";"0";"1";"0";"1";"0";"1";"0"
-"Tanzania";"0";"0";"0";"1";"0";"0";"0";"1";"0";"1";"1";"1";"0";"1"
-"Thailand";"1";"0";"0";"1";"0";"0";"1";"1";"0";"1";"0";"1";"0";"0"
-"Tonga";"0";"0";"0";"1";"0";"1";"1";"1";"0";"1";"0";"0";"0";"0"
-"Trinidad Tobago";"1";"0";"0";"1";"0";"0";"0";"1";"1";"1";"0";"0";"0";"0"
-"Turkey";"0";"0";"1";"0";"0";"1";"1";"0";"0";"0";"1";"0";"1";"1"
-"U. K.";"0";"1";"1";"1";"1";"0";"0";"0";"1";"0";"1";"1";"1";"0"
-"Uganda";"1";"0";"0";"0";"0";"0";"1";"1";"0";"1";"0";"0";"1";"1"
-"Ukraine";"0";"1";"1";"0";"1";"0";"0";"0";"0";"0";"1";"1";"1";"0"
-"United States";"0";"1";"1";"1";"0";"0";"0";"1";"1";"1";"0";"1";"1";"0"
-"Uruguay";"1";"0";"0";"1";"0";"0";"0";"1";"0";"0";"0";"1";"1";"0"
-"Vanuatu";"0";"0";"0";"0";"1";"1";"0";"1";"0";"0";"0";"0";"0";"1"
-"Vietnam";"1";"1";"0";"0";"0";"0";"0";"0";"1";"1";"0";"1";"0";"0"
-"West Bank";"0";"1";"1";"1";"0";"0";"0";"0";"0";"1";"0";"1";"0";"0"
-"Zambia";"1";"0";"1";"1";"1";"0";"1";"1";"0";"0";"1";"1";"0";"1"
+"Afghanistan";2011;"Index 1";1
+"Albania";2011;"Index 1";0
+"Algeria";2011;"Index 1";0
+"Angola";2011;"Index 1";1
+"Argentina";2011;"Index 1";0
+"Armenia";2011;"Index 1";0
+"Australia";2011;"Index 1";1
+"Austria";2011;"Index 1";1
+"Bangladesh";2011;"Index 1";0
+"Belarus";2011;"Index 1";1
+"Belgium";2011;"Index 1";0
+"Bhutan";2011;"Index 1";1
+"Bolivia";2011;"Index 1";1
+"Bosnia";2011;"Index 1";1
+"Botswana";2011;"Index 1";1
+"Brazil";2011;"Index 1";0
+"Brunei";2011;"Index 1";0
+"Bulgaria";2011;"Index 1";1
+"Burundi";2011;"Index 1";1
+"Cambodia";2011;"Index 1";0
+"Cameroon";2011;"Index 1";0
+"Canada";2011;"Index 1";1
+"Ctr Afr Rep";2011;"Index 1";1
+"Chad";2011;"Index 1";1
+"Chile";2011;"Index 1";0
+"Hong Kong";2011;"Index 1";1
+"Macao";2011;"Index 1";0
+"China";2011;"Index 1";1
+"Colombia";2011;"Index 1";0
+"Congo";2011;"Index 1";0
+"Costa Rica";2011;"Index 1";1
+"Croatia";2011;"Index 1";1
+"Cyprus";2011;"Index 1";0
+"Czech Republic";2011;"Index 1";0
+"Denmark";2011;"Index 1";1
+"Djibouti";2011;"Index 1";0
+"Dominican Rep";2011;"Index 1";1
+"Ecuador";2011;"Index 1";0
+"El Salvador";2011;"Index 1";0
+"Eq. Guinea";2011;"Index 1";0
+"Estonia";2011;"Index 1";1
+"Eswatini";2011;"Index 1";0
+"Fiji";2011;"Index 1";0
+"Finland";2011;"Index 1";0
+"France";2011;"Index 1";0
+"Gabon";2011;"Index 1";0
+"Gambia";2011;"Index 1";0
+"Georgia";2011;"Index 1";0
+"Germany";2011;"Index 1";1
+"Ghana";2011;"Index 1";0
+"Greece";2011;"Index 1";1
+"Guatemala";2011;"Index 1";0
+"Honduras";2011;"Index 1";0
+"Hungary";2011;"Index 1";0
+"India";2011;"Index 1";1
+"Indonesia";2011;"Index 1";0
+"Ireland";2011;"Index 1";1
+"Israel";2011;"Index 1";0
+"Italy";2011;"Index 1";1
+"Kazakhstan";2011;"Index 1";1
+"Kenya";2011;"Index 1";0
+"Korea Rep";2011;"Index 1";0
+"Kosovo";2011;"Index 1";0
+"Kuwait";2011;"Index 1";0
+"Kyrgyz Rep";2011;"Index 1";0
+"Latvia";2011;"Index 1";1
+"Lebanon";2011;"Index 1";0
+"Lesotho";2011;"Index 1";1
+"Lithuania";2011;"Index 1";1
+"Luxembourg";2011;"Index 1";0
+"Macedonia";2011;"Index 1";1
+"Madagascar";2011;"Index 1";1
+"Malaysia";2011;"Index 1";0
+"Malta";2011;"Index 1";1
+"Mauritius";2011;"Index 1";0
+"Mexico";2011;"Index 1";0
+"Moldova";2011;"Index 1";1
+"Namibia";2011;"Index 1";0
+"Netherlands";2011;"Index 1";0
+"Nicaragua";2011;"Index 1";0
+"Nigeria";2011;"Index 1";1
+"Norway";2011;"Index 1";0
+"Pakistan";2011;"Index 1";1
+"Panama";2011;"Index 1";0
+"P. N. Guinea";2011;"Index 1";0
+"Paraguay";2011;"Index 1";1
+"Peru";2011;"Index 1";0
+"Philippines";2011;"Index 1";1
+"Poland";2011;"Index 1";0
+"Portugal";2011;"Index 1";1
+"Romania";2011;"Index 1";0
+"Russia";2011;"Index 1";0
+"Rwanda";2011;"Index 1";1
+"San Marino";2011;"Index 1";0
+"Saudi Arabia";2011;"Index 1";0
+"Seychelles";2011;"Index 1";1
+"Singapore";2011;"Index 1";0
+"Slovak Rep";2011;"Index 1";1
+"Slovenia";2011;"Index 1";1
+"Solomon";2011;"Index 1";1
+"South Africa";2011;"Index 1";1
+"Spain";2011;"Index 1";0
+"Sri Lanka";2011;"Index 1";0
+"Sweden";2011;"Index 1";1
+"Switzerland";2011;"Index 1";0
+"Tanzania";2011;"Index 1";0
+"Thailand";2011;"Index 1";0
+"Tonga";2011;"Index 1";1
+"Trinidad Tobago";2011;"Index 1";1
+"Turkey";2011;"Index 1";0
+"Uganda";2011;"Index 1";1
+"Ukraine";2011;"Index 1";0
+"U. K.";2011;"Index 1";0
+"United States";2011;"Index 1";0
+"Uruguay";2011;"Index 1";1
+"Vanuatu";2011;"Index 1";0
+"Vietnam";2011;"Index 1";1
+"West Bank";2011;"Index 1";0
+"Zambia";2011;"Index 1";0
+"Afghanistan";2011;"Index 2";0
+"Albania";2011;"Index 2";1
+"Algeria";2011;"Index 2";1
+"Angola";2011;"Index 2";0
+"Argentina";2011;"Index 2";0
+"Armenia";2011;"Index 2";0
+"Australia";2011;"Index 2";0
+"Austria";2011;"Index 2";1
+"Bangladesh";2011;"Index 2";1
+"Belarus";2011;"Index 2";1
+"Belgium";2011;"Index 2";1
+"Bhutan";2011;"Index 2";1
+"Bolivia";2011;"Index 2";0
+"Bosnia";2011;"Index 2";0
+"Botswana";2011;"Index 2";0
+"Brazil";2011;"Index 2";1
+"Brunei";2011;"Index 2";1
+"Bulgaria";2011;"Index 2";1
+"Burundi";2011;"Index 2";0
+"Cambodia";2011;"Index 2";0
+"Cameroon";2011;"Index 2";0
+"Canada";2011;"Index 2";1
+"Ctr Afr Rep";2011;"Index 2";1
+"Chad";2011;"Index 2";1
+"Chile";2011;"Index 2";1
+"Hong Kong";2011;"Index 2";0
+"Macao";2011;"Index 2";0
+"China";2011;"Index 2";1
+"Colombia";2011;"Index 2";1
+"Congo";2011;"Index 2";1
+"Costa Rica";2011;"Index 2";1
+"Croatia";2011;"Index 2";1
+"Cyprus";2011;"Index 2";1
+"Czech Republic";2011;"Index 2";1
+"Denmark";2011;"Index 2";1
+"Djibouti";2011;"Index 2";1
+"Dominican Rep";2011;"Index 2";1
+"Ecuador";2011;"Index 2";1
+"El Salvador";2011;"Index 2";1
+"Eq. Guinea";2011;"Index 2";0
+"Estonia";2011;"Index 2";0
+"Eswatini";2011;"Index 2";0
+"Fiji";2011;"Index 2";0
+"Finland";2011;"Index 2";1
+"France";2011;"Index 2";1
+"Gabon";2011;"Index 2";0
+"Gambia";2011;"Index 2";1
+"Georgia";2011;"Index 2";0
+"Germany";2011;"Index 2";1
+"Ghana";2011;"Index 2";0
+"Greece";2011;"Index 2";1
+"Guatemala";2011;"Index 2";1
+"Honduras";2011;"Index 2";1
+"Hungary";2011;"Index 2";1
+"India";2011;"Index 2";0
+"Indonesia";2011;"Index 2";1
+"Ireland";2011;"Index 2";0
+"Israel";2011;"Index 2";0
+"Italy";2011;"Index 2";1
+"Kazakhstan";2011;"Index 2";0
+"Kenya";2011;"Index 2";1
+"Korea Rep";2011;"Index 2";1
+"Kosovo";2011;"Index 2";1
+"Kuwait";2011;"Index 2";1
+"Kyrgyz Rep";2011;"Index 2";0
+"Latvia";2011;"Index 2";0
+"Lebanon";2011;"Index 2";0
+"Lesotho";2011;"Index 2";1
+"Lithuania";2011;"Index 2";0
+"Luxembourg";2011;"Index 2";1
+"Macedonia";2011;"Index 2";1
+"Madagascar";2011;"Index 2";1
+"Malaysia";2011;"Index 2";1
+"Malta";2011;"Index 2";0
+"Mauritius";2011;"Index 2";1
+"Mexico";2011;"Index 2";1
+"Moldova";2011;"Index 2";0
+"Namibia";2011;"Index 2";1
+"Netherlands";2011;"Index 2";1
+"Nicaragua";2011;"Index 2";0
+"Nigeria";2011;"Index 2";1
+"Norway";2011;"Index 2";1
+"Pakistan";2011;"Index 2";1
+"Panama";2011;"Index 2";1
+"P. N. Guinea";2011;"Index 2";1
+"Paraguay";2011;"Index 2";1
+"Peru";2011;"Index 2";1
+"Philippines";2011;"Index 2";1
+"Poland";2011;"Index 2";1
+"Portugal";2011;"Index 2";0
+"Romania";2011;"Index 2";1
+"Russia";2011;"Index 2";0
+"Rwanda";2011;"Index 2";0
+"San Marino";2011;"Index 2";1
+"Saudi Arabia";2011;"Index 2";1
+"Seychelles";2011;"Index 2";0
+"Singapore";2011;"Index 2";0
+"Slovak Rep";2011;"Index 2";1
+"Slovenia";2011;"Index 2";1
+"Solomon";2011;"Index 2";1
+"South Africa";2011;"Index 2";0
+"Spain";2011;"Index 2";1
+"Sri Lanka";2011;"Index 2";1
+"Sweden";2011;"Index 2";1
+"Switzerland";2011;"Index 2";1
+"Tanzania";2011;"Index 2";1
+"Thailand";2011;"Index 2";0
+"Tonga";2011;"Index 2";1
+"Trinidad Tobago";2011;"Index 2";1
+"Turkey";2011;"Index 2";1
+"Uganda";2011;"Index 2";1
+"Ukraine";2011;"Index 2";0
+"U. K.";2011;"Index 2";1
+"United States";2011;"Index 2";1
+"Uruguay";2011;"Index 2";1
+"Vanuatu";2011;"Index 2";1
+"Vietnam";2011;"Index 2";1
+"West Bank";2011;"Index 2";1
+"Zambia";2011;"Index 2";0
+"Afghanistan";2012;"Index 1";0
+"Albania";2012;"Index 1";1
+"Algeria";2012;"Index 1";0
+"Angola";2012;"Index 1";0
+"Argentina";2012;"Index 1";1
+"Armenia";2012;"Index 1";0
+"Australia";2012;"Index 1";1
+"Austria";2012;"Index 1";1
+"Bangladesh";2012;"Index 1";0
+"Belarus";2012;"Index 1";0
+"Belgium";2012;"Index 1";1
+"Bhutan";2012;"Index 1";0
+"Bolivia";2012;"Index 1";1
+"Bosnia";2012;"Index 1";0
+"Botswana";2012;"Index 1";1
+"Brazil";2012;"Index 1";0
+"Brunei";2012;"Index 1";1
+"Bulgaria";2012;"Index 1";0
+"Burundi";2012;"Index 1";0
+"Cambodia";2012;"Index 1";0
+"Cameroon";2012;"Index 1";1
+"Canada";2012;"Index 1";0
+"Ctr Afr Rep";2012;"Index 1";0
+"Chad";2012;"Index 1";0
+"Chile";2012;"Index 1";0
+"Hong Kong";2012;"Index 1";0
+"Macao";2012;"Index 1";0
+"China";2012;"Index 1";1
+"Colombia";2012;"Index 1";1
+"Congo";2012;"Index 1";1
+"Costa Rica";2012;"Index 1";0
+"Croatia";2012;"Index 1";1
+"Cyprus";2012;"Index 1";0
+"Czech Republic";2012;"Index 1";1
+"Denmark";2012;"Index 1";1
+"Djibouti";2012;"Index 1";0
+"Dominican Rep";2012;"Index 1";0
+"Ecuador";2012;"Index 1";0
+"El Salvador";2012;"Index 1";0
+"Eq. Guinea";2012;"Index 1";1
+"Estonia";2012;"Index 1";1
+"Eswatini";2012;"Index 1";1
+"Fiji";2012;"Index 1";0
+"Finland";2012;"Index 1";1
+"France";2012;"Index 1";1
+"Gabon";2012;"Index 1";0
+"Gambia";2012;"Index 1";0
+"Georgia";2012;"Index 1";1
+"Germany";2012;"Index 1";1
+"Ghana";2012;"Index 1";1
+"Greece";2012;"Index 1";0
+"Guatemala";2012;"Index 1";0
+"Honduras";2012;"Index 1";0
+"Hungary";2012;"Index 1";1
+"India";2012;"Index 1";0
+"Indonesia";2012;"Index 1";1
+"Ireland";2012;"Index 1";0
+"Israel";2012;"Index 1";1
+"Italy";2012;"Index 1";1
+"Kazakhstan";2012;"Index 1";1
+"Kenya";2012;"Index 1";1
+"Korea Rep";2012;"Index 1";1
+"Kosovo";2012;"Index 1";1
+"Kuwait";2012;"Index 1";0
+"Kyrgyz Rep";2012;"Index 1";0
+"Latvia";2012;"Index 1";1
+"Lebanon";2012;"Index 1";1
+"Lesotho";2012;"Index 1";0
+"Lithuania";2012;"Index 1";1
+"Luxembourg";2012;"Index 1";1
+"Macedonia";2012;"Index 1";1
+"Madagascar";2012;"Index 1";0
+"Malaysia";2012;"Index 1";0
+"Malta";2012;"Index 1";1
+"Mauritius";2012;"Index 1";1
+"Mexico";2012;"Index 1";0
+"Moldova";2012;"Index 1";0
+"Namibia";2012;"Index 1";0
+"Netherlands";2012;"Index 1";1
+"Nicaragua";2012;"Index 1";0
+"Nigeria";2012;"Index 1";0
+"Norway";2012;"Index 1";1
+"Pakistan";2012;"Index 1";1
+"Panama";2012;"Index 1";0
+"P. N. Guinea";2012;"Index 1";1
+"Paraguay";2012;"Index 1";1
+"Peru";2012;"Index 1";1
+"Philippines";2012;"Index 1";1
+"Poland";2012;"Index 1";1
+"Portugal";2012;"Index 1";1
+"Romania";2012;"Index 1";1
+"Russia";2012;"Index 1";0
+"Rwanda";2012;"Index 1";0
+"San Marino";2012;"Index 1";0
+"Saudi Arabia";2012;"Index 1";1
+"Seychelles";2012;"Index 1";1
+"Singapore";2012;"Index 1";1
+"Slovak Rep";2012;"Index 1";1
+"Slovenia";2012;"Index 1";1
+"Solomon";2012;"Index 1";0
+"South Africa";2012;"Index 1";1
+"Spain";2012;"Index 1";0
+"Sri Lanka";2012;"Index 1";0
+"Sweden";2012;"Index 1";1
+"Switzerland";2012;"Index 1";1
+"Tanzania";2012;"Index 1";0
+"Thailand";2012;"Index 1";1
+"Tonga";2012;"Index 1";1
+"Trinidad Tobago";2012;"Index 1";0
+"Turkey";2012;"Index 1";1
+"Uganda";2012;"Index 1";0
+"Ukraine";2012;"Index 1";0
+"U. K.";2012;"Index 1";1
+"United States";2012;"Index 1";0
+"Uruguay";2012;"Index 1";0
+"Vanuatu";2012;"Index 1";1
+"Vietnam";2012;"Index 1";0
+"West Bank";2012;"Index 1";0
+"Zambia";2012;"Index 1";1
+"Afghanistan";2012;"Index 2";0
+"Albania";2012;"Index 2";0
+"Algeria";2012;"Index 2";0
+"Angola";2012;"Index 2";1
+"Argentina";2012;"Index 2";0
+"Armenia";2012;"Index 2";0
+"Australia";2012;"Index 2";0
+"Austria";2012;"Index 2";0
+"Bangladesh";2012;"Index 2";1
+"Belarus";2012;"Index 2";1
+"Belgium";2012;"Index 2";1
+"Bhutan";2012;"Index 2";1
+"Bolivia";2012;"Index 2";1
+"Bosnia";2012;"Index 2";1
+"Botswana";2012;"Index 2";0
+"Brazil";2012;"Index 2";0
+"Brunei";2012;"Index 2";1
+"Bulgaria";2012;"Index 2";0
+"Burundi";2012;"Index 2";1
+"Cambodia";2012;"Index 2";0
+"Cameroon";2012;"Index 2";1
+"Canada";2012;"Index 2";0
+"Ctr Afr Rep";2012;"Index 2";1
+"Chad";2012;"Index 2";0
+"Chile";2012;"Index 2";1
+"Hong Kong";2012;"Index 2";0
+"Macao";2012;"Index 2";0
+"China";2012;"Index 2";0
+"Colombia";2012;"Index 2";0
+"Congo";2012;"Index 2";1
+"Costa Rica";2012;"Index 2";0
+"Croatia";2012;"Index 2";1
+"Cyprus";2012;"Index 2";1
+"Czech Republic";2012;"Index 2";0
+"Denmark";2012;"Index 2";0
+"Djibouti";2012;"Index 2";0
+"Dominican Rep";2012;"Index 2";1
+"Ecuador";2012;"Index 2";1
+"El Salvador";2012;"Index 2";0
+"Eq. Guinea";2012;"Index 2";0
+"Estonia";2012;"Index 2";0
+"Eswatini";2012;"Index 2";1
+"Fiji";2012;"Index 2";0
+"Finland";2012;"Index 2";0
+"France";2012;"Index 2";1
+"Gabon";2012;"Index 2";0
+"Gambia";2012;"Index 2";0
+"Georgia";2012;"Index 2";0
+"Germany";2012;"Index 2";0
+"Ghana";2012;"Index 2";0
+"Greece";2012;"Index 2";1
+"Guatemala";2012;"Index 2";0
+"Honduras";2012;"Index 2";1
+"Hungary";2012;"Index 2";1
+"India";2012;"Index 2";1
+"Indonesia";2012;"Index 2";0
+"Ireland";2012;"Index 2";1
+"Israel";2012;"Index 2";0
+"Italy";2012;"Index 2";0
+"Kazakhstan";2012;"Index 2";0
+"Kenya";2012;"Index 2";0
+"Korea Rep";2012;"Index 2";1
+"Kosovo";2012;"Index 2";1
+"Kuwait";2012;"Index 2";0
+"Kyrgyz Rep";2012;"Index 2";0
+"Latvia";2012;"Index 2";0
+"Lebanon";2012;"Index 2";0
+"Lesotho";2012;"Index 2";1
+"Lithuania";2012;"Index 2";0
+"Luxembourg";2012;"Index 2";0
+"Macedonia";2012;"Index 2";0
+"Madagascar";2012;"Index 2";0
+"Malaysia";2012;"Index 2";0
+"Malta";2012;"Index 2";0
+"Mauritius";2012;"Index 2";1
+"Mexico";2012;"Index 2";1
+"Moldova";2012;"Index 2";1
+"Namibia";2012;"Index 2";0
+"Netherlands";2012;"Index 2";1
+"Nicaragua";2012;"Index 2";0
+"Nigeria";2012;"Index 2";1
+"Norway";2012;"Index 2";0
+"Pakistan";2012;"Index 2";0
+"Panama";2012;"Index 2";0
+"P. N. Guinea";2012;"Index 2";0
+"Paraguay";2012;"Index 2";0
+"Peru";2012;"Index 2";0
+"Philippines";2012;"Index 2";0
+"Poland";2012;"Index 2";0
+"Portugal";2012;"Index 2";0
+"Romania";2012;"Index 2";0
+"Russia";2012;"Index 2";0
+"Rwanda";2012;"Index 2";1
+"San Marino";2012;"Index 2";0
+"Saudi Arabia";2012;"Index 2";0
+"Seychelles";2012;"Index 2";1
+"Singapore";2012;"Index 2";0
+"Slovak Rep";2012;"Index 2";1
+"Slovenia";2012;"Index 2";1
+"Solomon";2012;"Index 2";0
+"South Africa";2012;"Index 2";1
+"Spain";2012;"Index 2";0
+"Sri Lanka";2012;"Index 2";0
+"Sweden";2012;"Index 2";1
+"Switzerland";2012;"Index 2";1
+"Tanzania";2012;"Index 2";0
+"Thailand";2012;"Index 2";0
+"Tonga";2012;"Index 2";1
+"Trinidad Tobago";2012;"Index 2";0
+"Turkey";2012;"Index 2";0
+"Uganda";2012;"Index 2";0
+"Ukraine";2012;"Index 2";0
+"U. K.";2012;"Index 2";1
+"United States";2012;"Index 2";0
+"Uruguay";2012;"Index 2";1
+"Vanuatu";2012;"Index 2";1
+"Vietnam";2012;"Index 2";1
+"West Bank";2012;"Index 2";0
+"Zambia";2012;"Index 2";1
+"Afghanistan";2013;"Index 1";1
+"Albania";2013;"Index 1";1
+"Algeria";2013;"Index 1";0
+"Angola";2013;"Index 1";1
+"Argentina";2013;"Index 1";0
+"Armenia";2013;"Index 1";0
+"Australia";2013;"Index 1";0
+"Austria";2013;"Index 1";1
+"Bangladesh";2013;"Index 1";1
+"Belarus";2013;"Index 1";0
+"Belgium";2013;"Index 1";1
+"Bhutan";2013;"Index 1";1
+"Bolivia";2013;"Index 1";1
+"Bosnia";2013;"Index 1";0
+"Botswana";2013;"Index 1";1
+"Brazil";2013;"Index 1";0
+"Brunei";2013;"Index 1";1
+"Bulgaria";2013;"Index 1";1
+"Burundi";2013;"Index 1";1
+"Cambodia";2013;"Index 1";0
+"Cameroon";2013;"Index 1";1
+"Canada";2013;"Index 1";0
+"Ctr Afr Rep";2013;"Index 1";1
+"Chad";2013;"Index 1";1
+"Chile";2013;"Index 1";0
+"Hong Kong";2013;"Index 1";0
+"Macao";2013;"Index 1";0
+"China";2013;"Index 1";0
+"Colombia";2013;"Index 1";0
+"Congo";2013;"Index 1";1
+"Costa Rica";2013;"Index 1";0
+"Croatia";2013;"Index 1";1
+"Cyprus";2013;"Index 1";1
+"Czech Republic";2013;"Index 1";0
+"Denmark";2013;"Index 1";0
+"Djibouti";2013;"Index 1";1
+"Dominican Rep";2013;"Index 1";0
+"Ecuador";2013;"Index 1";0
+"El Salvador";2013;"Index 1";0
+"Eq. Guinea";2013;"Index 1";0
+"Estonia";2013;"Index 1";1
+"Eswatini";2013;"Index 1";0
+"Fiji";2013;"Index 1";0
+"Finland";2013;"Index 1";0
+"France";2013;"Index 1";1
+"Gabon";2013;"Index 1";1
+"Gambia";2013;"Index 1";0
+"Georgia";2013;"Index 1";1
+"Germany";2013;"Index 1";1
+"Ghana";2013;"Index 1";0
+"Greece";2013;"Index 1";1
+"Guatemala";2013;"Index 1";0
+"Honduras";2013;"Index 1";0
+"Hungary";2013;"Index 1";1
+"India";2013;"Index 1";0
+"Indonesia";2013;"Index 1";1
+"Ireland";2013;"Index 1";1
+"Israel";2013;"Index 1";1
+"Italy";2013;"Index 1";0
+"Kazakhstan";2013;"Index 1";0
+"Kenya";2013;"Index 1";1
+"Korea Rep";2013;"Index 1";0
+"Kosovo";2013;"Index 1";0
+"Kuwait";2013;"Index 1";0
+"Kyrgyz Rep";2013;"Index 1";0
+"Latvia";2013;"Index 1";1
+"Lebanon";2013;"Index 1";1
+"Lesotho";2013;"Index 1";1
+"Lithuania";2013;"Index 1";1
+"Luxembourg";2013;"Index 1";1
+"Macedonia";2013;"Index 1";1
+"Madagascar";2013;"Index 1";1
+"Malaysia";2013;"Index 1";0
+"Malta";2013;"Index 1";1
+"Mauritius";2013;"Index 1";0
+"Mexico";2013;"Index 1";0
+"Moldova";2013;"Index 1";0
+"Namibia";2013;"Index 1";0
+"Netherlands";2013;"Index 1";0
+"Nicaragua";2013;"Index 1";0
+"Nigeria";2013;"Index 1";0
+"Norway";2013;"Index 1";0
+"Pakistan";2013;"Index 1";1
+"Panama";2013;"Index 1";0
+"P. N. Guinea";2013;"Index 1";1
+"Paraguay";2013;"Index 1";0
+"Peru";2013;"Index 1";0
+"Philippines";2013;"Index 1";0
+"Poland";2013;"Index 1";1
+"Portugal";2013;"Index 1";0
+"Romania";2013;"Index 1";1
+"Russia";2013;"Index 1";0
+"Rwanda";2013;"Index 1";0
+"San Marino";2013;"Index 1";1
+"Saudi Arabia";2013;"Index 1";1
+"Seychelles";2013;"Index 1";0
+"Singapore";2013;"Index 1";0
+"Slovak Rep";2013;"Index 1";1
+"Slovenia";2013;"Index 1";1
+"Solomon";2013;"Index 1";0
+"South Africa";2013;"Index 1";0
+"Spain";2013;"Index 1";1
+"Sri Lanka";2013;"Index 1";0
+"Sweden";2013;"Index 1";1
+"Switzerland";2013;"Index 1";1
+"Tanzania";2013;"Index 1";0
+"Thailand";2013;"Index 1";0
+"Tonga";2013;"Index 1";1
+"Trinidad Tobago";2013;"Index 1";0
+"Turkey";2013;"Index 1";0
+"Uganda";2013;"Index 1";0
+"Ukraine";2013;"Index 1";1
+"U. K.";2013;"Index 1";1
+"United States";2013;"Index 1";0
+"Uruguay";2013;"Index 1";0
+"Vanuatu";2013;"Index 1";1
+"Vietnam";2013;"Index 1";0
+"West Bank";2013;"Index 1";0
+"Zambia";2013;"Index 1";1
+"Afghanistan";2013;"Index 2";1
+"Albania";2013;"Index 2";1
+"Algeria";2013;"Index 2";1
+"Angola";2013;"Index 2";1
+"Argentina";2013;"Index 2";1
+"Armenia";2013;"Index 2";0
+"Australia";2013;"Index 2";1
+"Austria";2013;"Index 2";0
+"Bangladesh";2013;"Index 2";0
+"Belarus";2013;"Index 2";1
+"Belgium";2013;"Index 2";1
+"Bhutan";2013;"Index 2";1
+"Bolivia";2013;"Index 2";1
+"Bosnia";2013;"Index 2";0
+"Botswana";2013;"Index 2";1
+"Brazil";2013;"Index 2";1
+"Brunei";2013;"Index 2";1
+"Bulgaria";2013;"Index 2";0
+"Burundi";2013;"Index 2";0
+"Cambodia";2013;"Index 2";0
+"Cameroon";2013;"Index 2";1
+"Canada";2013;"Index 2";1
+"Ctr Afr Rep";2013;"Index 2";0
+"Chad";2013;"Index 2";1
+"Chile";2013;"Index 2";1
+"Hong Kong";2013;"Index 2";1
+"Macao";2013;"Index 2";1
+"China";2013;"Index 2";0
+"Colombia";2013;"Index 2";0
+"Congo";2013;"Index 2";1
+"Costa Rica";2013;"Index 2";0
+"Croatia";2013;"Index 2";0
+"Cyprus";2013;"Index 2";1
+"Czech Republic";2013;"Index 2";0
+"Denmark";2013;"Index 2";1
+"Djibouti";2013;"Index 2";0
+"Dominican Rep";2013;"Index 2";1
+"Ecuador";2013;"Index 2";0
+"El Salvador";2013;"Index 2";0
+"Eq. Guinea";2013;"Index 2";1
+"Estonia";2013;"Index 2";1
+"Eswatini";2013;"Index 2";0
+"Fiji";2013;"Index 2";0
+"Finland";2013;"Index 2";0
+"France";2013;"Index 2";1
+"Gabon";2013;"Index 2";1
+"Gambia";2013;"Index 2";1
+"Georgia";2013;"Index 2";1
+"Germany";2013;"Index 2";0
+"Ghana";2013;"Index 2";1
+"Greece";2013;"Index 2";1
+"Guatemala";2013;"Index 2";0
+"Honduras";2013;"Index 2";0
+"Hungary";2013;"Index 2";1
+"India";2013;"Index 2";0
+"Indonesia";2013;"Index 2";0
+"Ireland";2013;"Index 2";1
+"Israel";2013;"Index 2";1
+"Italy";2013;"Index 2";0
+"Kazakhstan";2013;"Index 2";1
+"Kenya";2013;"Index 2";0
+"Korea Rep";2013;"Index 2";0
+"Kosovo";2013;"Index 2";1
+"Kuwait";2013;"Index 2";0
+"Kyrgyz Rep";2013;"Index 2";1
+"Latvia";2013;"Index 2";0
+"Lebanon";2013;"Index 2";0
+"Lesotho";2013;"Index 2";1
+"Lithuania";2013;"Index 2";1
+"Luxembourg";2013;"Index 2";0
+"Macedonia";2013;"Index 2";1
+"Madagascar";2013;"Index 2";1
+"Malaysia";2013;"Index 2";1
+"Malta";2013;"Index 2";0
+"Mauritius";2013;"Index 2";0
+"Mexico";2013;"Index 2";1
+"Moldova";2013;"Index 2";1
+"Namibia";2013;"Index 2";1
+"Netherlands";2013;"Index 2";0
+"Nicaragua";2013;"Index 2";1
+"Nigeria";2013;"Index 2";0
+"Norway";2013;"Index 2";1
+"Pakistan";2013;"Index 2";0
+"Panama";2013;"Index 2";0
+"P. N. Guinea";2013;"Index 2";1
+"Paraguay";2013;"Index 2";0
+"Peru";2013;"Index 2";1
+"Philippines";2013;"Index 2";0
+"Poland";2013;"Index 2";0
+"Portugal";2013;"Index 2";0
+"Romania";2013;"Index 2";1
+"Russia";2013;"Index 2";1
+"Rwanda";2013;"Index 2";0
+"San Marino";2013;"Index 2";1
+"Saudi Arabia";2013;"Index 2";1
+"Seychelles";2013;"Index 2";0
+"Singapore";2013;"Index 2";0
+"Slovak Rep";2013;"Index 2";1
+"Slovenia";2013;"Index 2";0
+"Solomon";2013;"Index 2";0
+"South Africa";2013;"Index 2";0
+"Spain";2013;"Index 2";1
+"Sri Lanka";2013;"Index 2";0
+"Sweden";2013;"Index 2";1
+"Switzerland";2013;"Index 2";1
+"Tanzania";2013;"Index 2";0
+"Thailand";2013;"Index 2";1
+"Tonga";2013;"Index 2";1
+"Trinidad Tobago";2013;"Index 2";0
+"Turkey";2013;"Index 2";0
+"Uganda";2013;"Index 2";0
+"Ukraine";2013;"Index 2";1
+"U. K.";2013;"Index 2";0
+"United States";2013;"Index 2";0
+"Uruguay";2013;"Index 2";1
+"Vanuatu";2013;"Index 2";1
+"Vietnam";2013;"Index 2";0
+"West Bank";2013;"Index 2";0
+"Zambia";2013;"Index 2";0
+"Afghanistan";2014;"Index 1";1
+"Albania";2014;"Index 1";0
+"Algeria";2014;"Index 1";0
+"Angola";2014;"Index 1";0
+"Argentina";2014;"Index 1";1
+"Armenia";2014;"Index 1";0
+"Australia";2014;"Index 1";1
+"Austria";2014;"Index 1";0
+"Bangladesh";2014;"Index 1";0
+"Belarus";2014;"Index 1";0
+"Belgium";2014;"Index 1";0
+"Bhutan";2014;"Index 1";0
+"Bolivia";2014;"Index 1";1
+"Bosnia";2014;"Index 1";1
+"Botswana";2014;"Index 1";1
+"Brazil";2014;"Index 1";0
+"Brunei";2014;"Index 1";0
+"Bulgaria";2014;"Index 1";1
+"Burundi";2014;"Index 1";0
+"Cambodia";2014;"Index 1";0
+"Cameroon";2014;"Index 1";1
+"Canada";2014;"Index 1";0
+"Ctr Afr Rep";2014;"Index 1";1
+"Chad";2014;"Index 1";0
+"Chile";2014;"Index 1";1
+"Hong Kong";2014;"Index 1";1
+"Macao";2014;"Index 1";0
+"China";2014;"Index 1";0
+"Colombia";2014;"Index 1";0
+"Congo";2014;"Index 1";1
+"Costa Rica";2014;"Index 1";0
+"Croatia";2014;"Index 1";1
+"Cyprus";2014;"Index 1";1
+"Czech Republic";2014;"Index 1";1
+"Denmark";2014;"Index 1";0
+"Djibouti";2014;"Index 1";0
+"Dominican Rep";2014;"Index 1";1
+"Ecuador";2014;"Index 1";1
+"El Salvador";2014;"Index 1";0
+"Eq. Guinea";2014;"Index 1";1
+"Estonia";2014;"Index 1";1
+"Eswatini";2014;"Index 1";1
+"Fiji";2014;"Index 1";0
+"Finland";2014;"Index 1";1
+"France";2014;"Index 1";0
+"Gabon";2014;"Index 1";0
+"Gambia";2014;"Index 1";1
+"Georgia";2014;"Index 1";0
+"Germany";2014;"Index 1";0
+"Ghana";2014;"Index 1";0
+"Greece";2014;"Index 1";1
+"Guatemala";2014;"Index 1";0
+"Honduras";2014;"Index 1";1
+"Hungary";2014;"Index 1";0
+"India";2014;"Index 1";0
+"Indonesia";2014;"Index 1";0
+"Ireland";2014;"Index 1";1
+"Israel";2014;"Index 1";0
+"Italy";2014;"Index 1";1
+"Kazakhstan";2014;"Index 1";1
+"Kenya";2014;"Index 1";0
+"Korea Rep";2014;"Index 1";0
+"Kosovo";2014;"Index 1";1
+"Kuwait";2014;"Index 1";0
+"Kyrgyz Rep";2014;"Index 1";0
+"Latvia";2014;"Index 1";1
+"Lebanon";2014;"Index 1";0
+"Lesotho";2014;"Index 1";1
+"Lithuania";2014;"Index 1";1
+"Luxembourg";2014;"Index 1";0
+"Macedonia";2014;"Index 1";0
+"Madagascar";2014;"Index 1";0
+"Malaysia";2014;"Index 1";1
+"Malta";2014;"Index 1";0
+"Mauritius";2014;"Index 1";0
+"Mexico";2014;"Index 1";0
+"Moldova";2014;"Index 1";0
+"Namibia";2014;"Index 1";1
+"Netherlands";2014;"Index 1";1
+"Nicaragua";2014;"Index 1";1
+"Nigeria";2014;"Index 1";0
+"Norway";2014;"Index 1";1
+"Pakistan";2014;"Index 1";1
+"Panama";2014;"Index 1";1
+"P. N. Guinea";2014;"Index 1";1
+"Paraguay";2014;"Index 1";0
+"Peru";2014;"Index 1";0
+"Philippines";2014;"Index 1";0
+"Poland";2014;"Index 1";0
+"Portugal";2014;"Index 1";0
+"Romania";2014;"Index 1";1
+"Russia";2014;"Index 1";0
+"Rwanda";2014;"Index 1";1
+"San Marino";2014;"Index 1";0
+"Saudi Arabia";2014;"Index 1";0
+"Seychelles";2014;"Index 1";0
+"Singapore";2014;"Index 1";0
+"Slovak Rep";2014;"Index 1";1
+"Slovenia";2014;"Index 1";1
+"Solomon";2014;"Index 1";0
+"South Africa";2014;"Index 1";0
+"Spain";2014;"Index 1";1
+"Sri Lanka";2014;"Index 1";1
+"Sweden";2014;"Index 1";1
+"Switzerland";2014;"Index 1";0
+"Tanzania";2014;"Index 1";0
+"Thailand";2014;"Index 1";1
+"Tonga";2014;"Index 1";1
+"Trinidad Tobago";2014;"Index 1";0
+"Turkey";2014;"Index 1";1
+"Uganda";2014;"Index 1";1
+"Ukraine";2014;"Index 1";0
+"U. K.";2014;"Index 1";0
+"United States";2014;"Index 1";0
+"Uruguay";2014;"Index 1";0
+"Vanuatu";2014;"Index 1";0
+"Vietnam";2014;"Index 1";0
+"West Bank";2014;"Index 1";0
+"Zambia";2014;"Index 1";1
+"Afghanistan";2014;"Index 2";0
+"Albania";2014;"Index 2";1
+"Algeria";2014;"Index 2";1
+"Angola";2014;"Index 2";0
+"Argentina";2014;"Index 2";0
+"Armenia";2014;"Index 2";1
+"Australia";2014;"Index 2";0
+"Austria";2014;"Index 2";1
+"Bangladesh";2014;"Index 2";1
+"Belarus";2014;"Index 2";0
+"Belgium";2014;"Index 2";1
+"Bhutan";2014;"Index 2";0
+"Bolivia";2014;"Index 2";0
+"Bosnia";2014;"Index 2";1
+"Botswana";2014;"Index 2";0
+"Brazil";2014;"Index 2";0
+"Brunei";2014;"Index 2";1
+"Bulgaria";2014;"Index 2";0
+"Burundi";2014;"Index 2";0
+"Cambodia";2014;"Index 2";1
+"Cameroon";2014;"Index 2";0
+"Canada";2014;"Index 2";0
+"Ctr Afr Rep";2014;"Index 2";0
+"Chad";2014;"Index 2";0
+"Chile";2014;"Index 2";0
+"Hong Kong";2014;"Index 2";0
+"Macao";2014;"Index 2";1
+"China";2014;"Index 2";0
+"Colombia";2014;"Index 2";1
+"Congo";2014;"Index 2";0
+"Costa Rica";2014;"Index 2";1
+"Croatia";2014;"Index 2";0
+"Cyprus";2014;"Index 2";1
+"Czech Republic";2014;"Index 2";1
+"Denmark";2014;"Index 2";0
+"Djibouti";2014;"Index 2";0
+"Dominican Rep";2014;"Index 2";0
+"Ecuador";2014;"Index 2";1
+"El Salvador";2014;"Index 2";0
+"Eq. Guinea";2014;"Index 2";1
+"Estonia";2014;"Index 2";0
+"Eswatini";2014;"Index 2";1
+"Fiji";2014;"Index 2";1
+"Finland";2014;"Index 2";1
+"France";2014;"Index 2";1
+"Gabon";2014;"Index 2";1
+"Gambia";2014;"Index 2";0
+"Georgia";2014;"Index 2";1
+"Germany";2014;"Index 2";1
+"Ghana";2014;"Index 2";1
+"Greece";2014;"Index 2";0
+"Guatemala";2014;"Index 2";0
+"Honduras";2014;"Index 2";1
+"Hungary";2014;"Index 2";0
+"India";2014;"Index 2";0
+"Indonesia";2014;"Index 2";0
+"Ireland";2014;"Index 2";1
+"Israel";2014;"Index 2";0
+"Italy";2014;"Index 2";1
+"Kazakhstan";2014;"Index 2";1
+"Kenya";2014;"Index 2";1
+"Korea Rep";2014;"Index 2";0
+"Kosovo";2014;"Index 2";1
+"Kuwait";2014;"Index 2";1
+"Kyrgyz Rep";2014;"Index 2";1
+"Latvia";2014;"Index 2";1
+"Lebanon";2014;"Index 2";1
+"Lesotho";2014;"Index 2";0
+"Lithuania";2014;"Index 2";0
+"Luxembourg";2014;"Index 2";0
+"Macedonia";2014;"Index 2";1
+"Madagascar";2014;"Index 2";1
+"Malaysia";2014;"Index 2";0
+"Malta";2014;"Index 2";0
+"Mauritius";2014;"Index 2";0
+"Mexico";2014;"Index 2";0
+"Moldova";2014;"Index 2";1
+"Namibia";2014;"Index 2";1
+"Netherlands";2014;"Index 2";1
+"Nicaragua";2014;"Index 2";0
+"Nigeria";2014;"Index 2";1
+"Norway";2014;"Index 2";1
+"Pakistan";2014;"Index 2";1
+"Panama";2014;"Index 2";0
+"P. N. Guinea";2014;"Index 2";0
+"Paraguay";2014;"Index 2";1
+"Peru";2014;"Index 2";1
+"Philippines";2014;"Index 2";1
+"Poland";2014;"Index 2";1
+"Portugal";2014;"Index 2";0
+"Romania";2014;"Index 2";0
+"Russia";2014;"Index 2";0
+"Rwanda";2014;"Index 2";1
+"San Marino";2014;"Index 2";0
+"Saudi Arabia";2014;"Index 2";0
+"Seychelles";2014;"Index 2";1
+"Singapore";2014;"Index 2";0
+"Slovak Rep";2014;"Index 2";1
+"Slovenia";2014;"Index 2";1
+"Solomon";2014;"Index 2";1
+"South Africa";2014;"Index 2";1
+"Spain";2014;"Index 2";1
+"Sri Lanka";2014;"Index 2";1
+"Sweden";2014;"Index 2";0
+"Switzerland";2014;"Index 2";1
+"Tanzania";2014;"Index 2";1
+"Thailand";2014;"Index 2";0
+"Tonga";2014;"Index 2";0
+"Trinidad Tobago";2014;"Index 2";1
+"Turkey";2014;"Index 2";0
+"Uganda";2014;"Index 2";0
+"Ukraine";2014;"Index 2";0
+"U. K.";2014;"Index 2";1
+"United States";2014;"Index 2";0
+"Uruguay";2014;"Index 2";0
+"Vanuatu";2014;"Index 2";1
+"Vietnam";2014;"Index 2";0
+"West Bank";2014;"Index 2";1
+"Zambia";2014;"Index 2";1
+"Afghanistan";2015;"Index 1";0
+"Albania";2015;"Index 1";1
+"Algeria";2015;"Index 1";1
+"Angola";2015;"Index 1";1
+"Argentina";2015;"Index 1";0
+"Armenia";2015;"Index 1";0
+"Australia";2015;"Index 1";1
+"Austria";2015;"Index 1";1
+"Bangladesh";2015;"Index 1";0
+"Belarus";2015;"Index 1";0
+"Belgium";2015;"Index 1";1
+"Bhutan";2015;"Index 1";1
+"Bolivia";2015;"Index 1";0
+"Bosnia";2015;"Index 1";0
+"Botswana";2015;"Index 1";1
+"Brazil";2015;"Index 1";0
+"Brunei";2015;"Index 1";1
+"Bulgaria";2015;"Index 1";1
+"Burundi";2015;"Index 1";1
+"Cambodia";2015;"Index 1";0
+"Cameroon";2015;"Index 1";0
+"Canada";2015;"Index 1";0
+"Ctr Afr Rep";2015;"Index 1";0
+"Chad";2015;"Index 1";1
+"Chile";2015;"Index 1";0
+"Hong Kong";2015;"Index 1";1
+"Macao";2015;"Index 1";1
+"China";2015;"Index 1";1
+"Colombia";2015;"Index 1";0
+"Congo";2015;"Index 1";1
+"Costa Rica";2015;"Index 1";0
+"Croatia";2015;"Index 1";0
+"Cyprus";2015;"Index 1";0
+"Czech Republic";2015;"Index 1";1
+"Denmark";2015;"Index 1";1
+"Djibouti";2015;"Index 1";1
+"Dominican Rep";2015;"Index 1";0
+"Ecuador";2015;"Index 1";1
+"El Salvador";2015;"Index 1";0
+"Eq. Guinea";2015;"Index 1";1
+"Estonia";2015;"Index 1";0
+"Eswatini";2015;"Index 1";1
+"Fiji";2015;"Index 1";0
+"Finland";2015;"Index 1";1
+"France";2015;"Index 1";1
+"Gabon";2015;"Index 1";0
+"Gambia";2015;"Index 1";1
+"Georgia";2015;"Index 1";0
+"Germany";2015;"Index 1";1
+"Ghana";2015;"Index 1";0
+"Greece";2015;"Index 1";1
+"Guatemala";2015;"Index 1";0
+"Honduras";2015;"Index 1";0
+"Hungary";2015;"Index 1";1
+"India";2015;"Index 1";0
+"Indonesia";2015;"Index 1";1
+"Ireland";2015;"Index 1";1
+"Israel";2015;"Index 1";0
+"Italy";2015;"Index 1";1
+"Kazakhstan";2015;"Index 1";0
+"Kenya";2015;"Index 1";1
+"Korea Rep";2015;"Index 1";1
+"Kosovo";2015;"Index 1";1
+"Kuwait";2015;"Index 1";1
+"Kyrgyz Rep";2015;"Index 1";0
+"Latvia";2015;"Index 1";1
+"Lebanon";2015;"Index 1";1
+"Lesotho";2015;"Index 1";1
+"Lithuania";2015;"Index 1";1
+"Luxembourg";2015;"Index 1";1
+"Macedonia";2015;"Index 1";1
+"Madagascar";2015;"Index 1";1
+"Malaysia";2015;"Index 1";0
+"Malta";2015;"Index 1";1
+"Mauritius";2015;"Index 1";1
+"Mexico";2015;"Index 1";0
+"Moldova";2015;"Index 1";1
+"Namibia";2015;"Index 1";0
+"Netherlands";2015;"Index 1";1
+"Nicaragua";2015;"Index 1";0
+"Nigeria";2015;"Index 1";1
+"Norway";2015;"Index 1";1
+"Pakistan";2015;"Index 1";0
+"Panama";2015;"Index 1";0
+"P. N. Guinea";2015;"Index 1";0
+"Paraguay";2015;"Index 1";0
+"Peru";2015;"Index 1";0
+"Philippines";2015;"Index 1";0
+"Poland";2015;"Index 1";1
+"Portugal";2015;"Index 1";1
+"Romania";2015;"Index 1";1
+"Russia";2015;"Index 1";0
+"Rwanda";2015;"Index 1";0
+"San Marino";2015;"Index 1";1
+"Saudi Arabia";2015;"Index 1";1
+"Seychelles";2015;"Index 1";1
+"Singapore";2015;"Index 1";1
+"Slovak Rep";2015;"Index 1";0
+"Slovenia";2015;"Index 1";1
+"Solomon";2015;"Index 1";0
+"South Africa";2015;"Index 1";0
+"Spain";2015;"Index 1";1
+"Sri Lanka";2015;"Index 1";0
+"Sweden";2015;"Index 1";1
+"Switzerland";2015;"Index 1";1
+"Tanzania";2015;"Index 1";1
+"Thailand";2015;"Index 1";1
+"Tonga";2015;"Index 1";0
+"Trinidad Tobago";2015;"Index 1";1
+"Turkey";2015;"Index 1";0
+"Uganda";2015;"Index 1";0
+"Ukraine";2015;"Index 1";0
+"U. K.";2015;"Index 1";1
+"United States";2015;"Index 1";0
+"Uruguay";2015;"Index 1";0
+"Vanuatu";2015;"Index 1";0
+"Vietnam";2015;"Index 1";1
+"West Bank";2015;"Index 1";0
+"Zambia";2015;"Index 1";0
+"Afghanistan";2015;"Index 2";0
+"Albania";2015;"Index 2";0
+"Algeria";2015;"Index 2";1
+"Angola";2015;"Index 2";0
+"Argentina";2015;"Index 2";0
+"Armenia";2015;"Index 2";1
+"Australia";2015;"Index 2";0
+"Austria";2015;"Index 2";0
+"Bangladesh";2015;"Index 2";0
+"Belarus";2015;"Index 2";1
+"Belgium";2015;"Index 2";0
+"Bhutan";2015;"Index 2";0
+"Bolivia";2015;"Index 2";1
+"Bosnia";2015;"Index 2";1
+"Botswana";2015;"Index 2";1
+"Brazil";2015;"Index 2";0
+"Brunei";2015;"Index 2";0
+"Bulgaria";2015;"Index 2";0
+"Burundi";2015;"Index 2";0
+"Cambodia";2015;"Index 2";1
+"Cameroon";2015;"Index 2";1
+"Canada";2015;"Index 2";1
+"Ctr Afr Rep";2015;"Index 2";1
+"Chad";2015;"Index 2";1
+"Chile";2015;"Index 2";0
+"Hong Kong";2015;"Index 2";1
+"Macao";2015;"Index 2";1
+"China";2015;"Index 2";1
+"Colombia";2015;"Index 2";0
+"Congo";2015;"Index 2";1
+"Costa Rica";2015;"Index 2";0
+"Croatia";2015;"Index 2";1
+"Cyprus";2015;"Index 2";1
+"Czech Republic";2015;"Index 2";1
+"Denmark";2015;"Index 2";0
+"Djibouti";2015;"Index 2";1
+"Dominican Rep";2015;"Index 2";1
+"Ecuador";2015;"Index 2";1
+"El Salvador";2015;"Index 2";1
+"Eq. Guinea";2015;"Index 2";0
+"Estonia";2015;"Index 2";0
+"Eswatini";2015;"Index 2";0
+"Fiji";2015;"Index 2";1
+"Finland";2015;"Index 2";1
+"France";2015;"Index 2";0
+"Gabon";2015;"Index 2";1
+"Gambia";2015;"Index 2";1
+"Georgia";2015;"Index 2";0
+"Germany";2015;"Index 2";0
+"Ghana";2015;"Index 2";1
+"Greece";2015;"Index 2";1
+"Guatemala";2015;"Index 2";0
+"Honduras";2015;"Index 2";0
+"Hungary";2015;"Index 2";0
+"India";2015;"Index 2";1
+"Indonesia";2015;"Index 2";1
+"Ireland";2015;"Index 2";0
+"Israel";2015;"Index 2";0
+"Italy";2015;"Index 2";0
+"Kazakhstan";2015;"Index 2";1
+"Kenya";2015;"Index 2";1
+"Korea Rep";2015;"Index 2";0
+"Kosovo";2015;"Index 2";0
+"Kuwait";2015;"Index 2";0
+"Kyrgyz Rep";2015;"Index 2";1
+"Latvia";2015;"Index 2";1
+"Lebanon";2015;"Index 2";0
+"Lesotho";2015;"Index 2";1
+"Lithuania";2015;"Index 2";1
+"Luxembourg";2015;"Index 2";0
+"Macedonia";2015;"Index 2";0
+"Madagascar";2015;"Index 2";0
+"Malaysia";2015;"Index 2";1
+"Malta";2015;"Index 2";0
+"Mauritius";2015;"Index 2";1
+"Mexico";2015;"Index 2";0
+"Moldova";2015;"Index 2";1
+"Namibia";2015;"Index 2";0
+"Netherlands";2015;"Index 2";0
+"Nicaragua";2015;"Index 2";0
+"Nigeria";2015;"Index 2";1
+"Norway";2015;"Index 2";1
+"Pakistan";2015;"Index 2";0
+"Panama";2015;"Index 2";0
+"P. N. Guinea";2015;"Index 2";1
+"Paraguay";2015;"Index 2";1
+"Peru";2015;"Index 2";0
+"Philippines";2015;"Index 2";0
+"Poland";2015;"Index 2";1
+"Portugal";2015;"Index 2";0
+"Romania";2015;"Index 2";0
+"Russia";2015;"Index 2";1
+"Rwanda";2015;"Index 2";0
+"San Marino";2015;"Index 2";0
+"Saudi Arabia";2015;"Index 2";0
+"Seychelles";2015;"Index 2";1
+"Singapore";2015;"Index 2";0
+"Slovak Rep";2015;"Index 2";0
+"Slovenia";2015;"Index 2";0
+"Solomon";2015;"Index 2";0
+"South Africa";2015;"Index 2";0
+"Spain";2015;"Index 2";0
+"Sri Lanka";2015;"Index 2";0
+"Sweden";2015;"Index 2";1
+"Switzerland";2015;"Index 2";1
+"Tanzania";2015;"Index 2";1
+"Thailand";2015;"Index 2";1
+"Tonga";2015;"Index 2";0
+"Trinidad Tobago";2015;"Index 2";0
+"Turkey";2015;"Index 2";0
+"Uganda";2015;"Index 2";0
+"Ukraine";2015;"Index 2";1
+"U. K.";2015;"Index 2";1
+"United States";2015;"Index 2";0
+"Uruguay";2015;"Index 2";0
+"Vanuatu";2015;"Index 2";1
+"Vietnam";2015;"Index 2";0
+"West Bank";2015;"Index 2";0
+"Zambia";2015;"Index 2";0
+"Afghanistan";2016;"Index 1";1
+"Albania";2016;"Index 1";0
+"Algeria";2016;"Index 1";0
+"Angola";2016;"Index 1";0
+"Argentina";2016;"Index 1";1
+"Armenia";2016;"Index 1";1
+"Australia";2016;"Index 1";0
+"Austria";2016;"Index 1";1
+"Bangladesh";2016;"Index 1";0
+"Belarus";2016;"Index 1";0
+"Belgium";2016;"Index 1";0
+"Bhutan";2016;"Index 1";0
+"Bolivia";2016;"Index 1";0
+"Bosnia";2016;"Index 1";1
+"Botswana";2016;"Index 1";0
+"Brazil";2016;"Index 1";1
+"Brunei";2016;"Index 1";0
+"Bulgaria";2016;"Index 1";0
+"Burundi";2016;"Index 1";1
+"Cambodia";2016;"Index 1";0
+"Cameroon";2016;"Index 1";0
+"Canada";2016;"Index 1";0
+"Ctr Afr Rep";2016;"Index 1";0
+"Chad";2016;"Index 1";0
+"Chile";2016;"Index 1";1
+"Hong Kong";2016;"Index 1";1
+"Macao";2016;"Index 1";1
+"China";2016;"Index 1";0
+"Colombia";2016;"Index 1";1
+"Congo";2016;"Index 1";0
+"Costa Rica";2016;"Index 1";0
+"Croatia";2016;"Index 1";1
+"Cyprus";2016;"Index 1";1
+"Czech Republic";2016;"Index 1";0
+"Denmark";2016;"Index 1";1
+"Djibouti";2016;"Index 1";0
+"Dominican Rep";2016;"Index 1";0
+"Ecuador";2016;"Index 1";0
+"El Salvador";2016;"Index 1";0
+"Eq. Guinea";2016;"Index 1";1
+"Estonia";2016;"Index 1";1
+"Eswatini";2016;"Index 1";0
+"Fiji";2016;"Index 1";1
+"Finland";2016;"Index 1";1
+"France";2016;"Index 1";1
+"Gabon";2016;"Index 1";0
+"Gambia";2016;"Index 1";0
+"Georgia";2016;"Index 1";0
+"Germany";2016;"Index 1";1
+"Ghana";2016;"Index 1";0
+"Greece";2016;"Index 1";1
+"Guatemala";2016;"Index 1";1
+"Honduras";2016;"Index 1";0
+"Hungary";2016;"Index 1";1
+"India";2016;"Index 1";0
+"Indonesia";2016;"Index 1";1
+"Ireland";2016;"Index 1";1
+"Israel";2016;"Index 1";1
+"Italy";2016;"Index 1";0
+"Kazakhstan";2016;"Index 1";1
+"Kenya";2016;"Index 1";0
+"Korea Rep";2016;"Index 1";1
+"Kosovo";2016;"Index 1";0
+"Kuwait";2016;"Index 1";0
+"Kyrgyz Rep";2016;"Index 1";1
+"Latvia";2016;"Index 1";0
+"Lebanon";2016;"Index 1";1
+"Lesotho";2016;"Index 1";1
+"Lithuania";2016;"Index 1";0
+"Luxembourg";2016;"Index 1";1
+"Macedonia";2016;"Index 1";0
+"Madagascar";2016;"Index 1";0
+"Malaysia";2016;"Index 1";1
+"Malta";2016;"Index 1";1
+"Mauritius";2016;"Index 1";0
+"Mexico";2016;"Index 1";0
+"Moldova";2016;"Index 1";1
+"Namibia";2016;"Index 1";1
+"Netherlands";2016;"Index 1";1
+"Nicaragua";2016;"Index 1";0
+"Nigeria";2016;"Index 1";0
+"Norway";2016;"Index 1";1
+"Pakistan";2016;"Index 1";0
+"Panama";2016;"Index 1";1
+"P. N. Guinea";2016;"Index 1";0
+"Paraguay";2016;"Index 1";1
+"Peru";2016;"Index 1";1
+"Philippines";2016;"Index 1";0
+"Poland";2016;"Index 1";1
+"Portugal";2016;"Index 1";0
+"Romania";2016;"Index 1";1
+"Russia";2016;"Index 1";1
+"Rwanda";2016;"Index 1";0
+"San Marino";2016;"Index 1";0
+"Saudi Arabia";2016;"Index 1";1
+"Seychelles";2016;"Index 1";1
+"Singapore";2016;"Index 1";1
+"Slovak Rep";2016;"Index 1";1
+"Slovenia";2016;"Index 1";1
+"Solomon";2016;"Index 1";1
+"South Africa";2016;"Index 1";1
+"Spain";2016;"Index 1";0
+"Sri Lanka";2016;"Index 1";0
+"Sweden";2016;"Index 1";1
+"Switzerland";2016;"Index 1";0
+"Tanzania";2016;"Index 1";1
+"Thailand";2016;"Index 1";1
+"Tonga";2016;"Index 1";0
+"Trinidad Tobago";2016;"Index 1";0
+"Turkey";2016;"Index 1";0
+"Uganda";2016;"Index 1";0
+"Ukraine";2016;"Index 1";1
+"U. K.";2016;"Index 1";1
+"United States";2016;"Index 1";0
+"Uruguay";2016;"Index 1";1
+"Vanuatu";2016;"Index 1";0
+"Vietnam";2016;"Index 1";0
+"West Bank";2016;"Index 1";0
+"Zambia";2016;"Index 1";1
+"Afghanistan";2016;"Index 2";0
+"Albania";2016;"Index 2";1
+"Algeria";2016;"Index 2";1
+"Angola";2016;"Index 2";1
+"Argentina";2016;"Index 2";1
+"Armenia";2016;"Index 2";0
+"Australia";2016;"Index 2";1
+"Austria";2016;"Index 2";1
+"Bangladesh";2016;"Index 2";1
+"Belarus";2016;"Index 2";1
+"Belgium";2016;"Index 2";1
+"Bhutan";2016;"Index 2";1
+"Bolivia";2016;"Index 2";0
+"Bosnia";2016;"Index 2";0
+"Botswana";2016;"Index 2";0
+"Brazil";2016;"Index 2";1
+"Brunei";2016;"Index 2";0
+"Bulgaria";2016;"Index 2";0
+"Burundi";2016;"Index 2";0
+"Cambodia";2016;"Index 2";1
+"Cameroon";2016;"Index 2";0
+"Canada";2016;"Index 2";1
+"Ctr Afr Rep";2016;"Index 2";0
+"Chad";2016;"Index 2";1
+"Chile";2016;"Index 2";1
+"Hong Kong";2016;"Index 2";0
+"Macao";2016;"Index 2";0
+"China";2016;"Index 2";1
+"Colombia";2016;"Index 2";0
+"Congo";2016;"Index 2";0
+"Costa Rica";2016;"Index 2";0
+"Croatia";2016;"Index 2";0
+"Cyprus";2016;"Index 2";0
+"Czech Republic";2016;"Index 2";0
+"Denmark";2016;"Index 2";0
+"Djibouti";2016;"Index 2";0
+"Dominican Rep";2016;"Index 2";1
+"Ecuador";2016;"Index 2";0
+"El Salvador";2016;"Index 2";1
+"Eq. Guinea";2016;"Index 2";1
+"Estonia";2016;"Index 2";1
+"Eswatini";2016;"Index 2";1
+"Fiji";2016;"Index 2";1
+"Finland";2016;"Index 2";0
+"France";2016;"Index 2";0
+"Gabon";2016;"Index 2";0
+"Gambia";2016;"Index 2";1
+"Georgia";2016;"Index 2";0
+"Germany";2016;"Index 2";0
+"Ghana";2016;"Index 2";1
+"Greece";2016;"Index 2";0
+"Guatemala";2016;"Index 2";1
+"Honduras";2016;"Index 2";1
+"Hungary";2016;"Index 2";0
+"India";2016;"Index 2";1
+"Indonesia";2016;"Index 2";1
+"Ireland";2016;"Index 2";0
+"Israel";2016;"Index 2";1
+"Italy";2016;"Index 2";1
+"Kazakhstan";2016;"Index 2";0
+"Kenya";2016;"Index 2";1
+"Korea Rep";2016;"Index 2";0
+"Kosovo";2016;"Index 2";0
+"Kuwait";2016;"Index 2";1
+"Kyrgyz Rep";2016;"Index 2";1
+"Latvia";2016;"Index 2";1
+"Lebanon";2016;"Index 2";0
+"Lesotho";2016;"Index 2";1
+"Lithuania";2016;"Index 2";0
+"Luxembourg";2016;"Index 2";1
+"Macedonia";2016;"Index 2";0
+"Madagascar";2016;"Index 2";1
+"Malaysia";2016;"Index 2";0
+"Malta";2016;"Index 2";0
+"Mauritius";2016;"Index 2";1
+"Mexico";2016;"Index 2";0
+"Moldova";2016;"Index 2";0
+"Namibia";2016;"Index 2";1
+"Netherlands";2016;"Index 2";0
+"Nicaragua";2016;"Index 2";0
+"Nigeria";2016;"Index 2";1
+"Norway";2016;"Index 2";0
+"Pakistan";2016;"Index 2";1
+"Panama";2016;"Index 2";1
+"P. N. Guinea";2016;"Index 2";1
+"Paraguay";2016;"Index 2";1
+"Peru";2016;"Index 2";1
+"Philippines";2016;"Index 2";0
+"Poland";2016;"Index 2";0
+"Portugal";2016;"Index 2";1
+"Romania";2016;"Index 2";0
+"Russia";2016;"Index 2";1
+"Rwanda";2016;"Index 2";1
+"San Marino";2016;"Index 2";1
+"Saudi Arabia";2016;"Index 2";1
+"Seychelles";2016;"Index 2";1
+"Singapore";2016;"Index 2";1
+"Slovak Rep";2016;"Index 2";0
+"Slovenia";2016;"Index 2";0
+"Solomon";2016;"Index 2";0
+"South Africa";2016;"Index 2";1
+"Spain";2016;"Index 2";1
+"Sri Lanka";2016;"Index 2";0
+"Sweden";2016;"Index 2";0
+"Switzerland";2016;"Index 2";1
+"Tanzania";2016;"Index 2";0
+"Thailand";2016;"Index 2";1
+"Tonga";2016;"Index 2";0
+"Trinidad Tobago";2016;"Index 2";0
+"Turkey";2016;"Index 2";0
+"Uganda";2016;"Index 2";1
+"Ukraine";2016;"Index 2";1
+"U. K.";2016;"Index 2";1
+"United States";2016;"Index 2";0
+"Uruguay";2016;"Index 2";1
+"Vanuatu";2016;"Index 2";0
+"Vietnam";2016;"Index 2";0
+"West Bank";2016;"Index 2";0
+"Zambia";2016;"Index 2";1
+"Afghanistan";2017;"Index 1";1
+"Albania";2017;"Index 1";1
+"Algeria";2017;"Index 1";1
+"Angola";2017;"Index 1";1
+"Argentina";2017;"Index 1";0
+"Armenia";2017;"Index 1";0
+"Australia";2017;"Index 1";1
+"Austria";2017;"Index 1";1
+"Bangladesh";2017;"Index 1";0
+"Belarus";2017;"Index 1";1
+"Belgium";2017;"Index 1";1
+"Bhutan";2017;"Index 1";0
+"Bolivia";2017;"Index 1";0
+"Bosnia";2017;"Index 1";0
+"Botswana";2017;"Index 1";1
+"Brazil";2017;"Index 1";1
+"Brunei";2017;"Index 1";0
+"Bulgaria";2017;"Index 1";0
+"Burundi";2017;"Index 1";0
+"Cambodia";2017;"Index 1";1
+"Cameroon";2017;"Index 1";1
+"Canada";2017;"Index 1";0
+"Ctr Afr Rep";2017;"Index 1";1
+"Chad";2017;"Index 1";1
+"Chile";2017;"Index 1";0
+"Hong Kong";2017;"Index 1";0
+"Macao";2017;"Index 1";0
+"China";2017;"Index 1";1
+"Colombia";2017;"Index 1";1
+"Congo";2017;"Index 1";1
+"Costa Rica";2017;"Index 1";0
+"Croatia";2017;"Index 1";1
+"Cyprus";2017;"Index 1";0
+"Czech Republic";2017;"Index 1";0
+"Denmark";2017;"Index 1";0
+"Djibouti";2017;"Index 1";0
+"Dominican Rep";2017;"Index 1";1
+"Ecuador";2017;"Index 1";0
+"El Salvador";2017;"Index 1";0
+"Eq. Guinea";2017;"Index 1";1
+"Estonia";2017;"Index 1";0
+"Eswatini";2017;"Index 1";1
+"Fiji";2017;"Index 1";0
+"Finland";2017;"Index 1";1
+"France";2017;"Index 1";0
+"Gabon";2017;"Index 1";1
+"Gambia";2017;"Index 1";0
+"Georgia";2017;"Index 1";1
+"Germany";2017;"Index 1";1
+"Ghana";2017;"Index 1";0
+"Greece";2017;"Index 1";0
+"Guatemala";2017;"Index 1";1
+"Honduras";2017;"Index 1";0
+"Hungary";2017;"Index 1";0
+"India";2017;"Index 1";0
+"Indonesia";2017;"Index 1";1
+"Ireland";2017;"Index 1";0
+"Israel";2017;"Index 1";0
+"Italy";2017;"Index 1";1
+"Kazakhstan";2017;"Index 1";1
+"Kenya";2017;"Index 1";0
+"Korea Rep";2017;"Index 1";0
+"Kosovo";2017;"Index 1";0
+"Kuwait";2017;"Index 1";0
+"Kyrgyz Rep";2017;"Index 1";0
+"Latvia";2017;"Index 1";1
+"Lebanon";2017;"Index 1";1
+"Lesotho";2017;"Index 1";1
+"Lithuania";2017;"Index 1";0
+"Luxembourg";2017;"Index 1";1
+"Macedonia";2017;"Index 1";0
+"Madagascar";2017;"Index 1";0
+"Malaysia";2017;"Index 1";1
+"Malta";2017;"Index 1";1
+"Mauritius";2017;"Index 1";0
+"Mexico";2017;"Index 1";1
+"Moldova";2017;"Index 1";1
+"Namibia";2017;"Index 1";0
+"Netherlands";2017;"Index 1";1
+"Nicaragua";2017;"Index 1";0
+"Nigeria";2017;"Index 1";0
+"Norway";2017;"Index 1";0
+"Pakistan";2017;"Index 1";0
+"Panama";2017;"Index 1";1
+"P. N. Guinea";2017;"Index 1";1
+"Paraguay";2017;"Index 1";1
+"Peru";2017;"Index 1";1
+"Philippines";2017;"Index 1";0
+"Poland";2017;"Index 1";1
+"Portugal";2017;"Index 1";1
+"Romania";2017;"Index 1";1
+"Russia";2017;"Index 1";0
+"Rwanda";2017;"Index 1";0
+"San Marino";2017;"Index 1";1
+"Saudi Arabia";2017;"Index 1";1
+"Seychelles";2017;"Index 1";0
+"Singapore";2017;"Index 1";1
+"Slovak Rep";2017;"Index 1";1
+"Slovenia";2017;"Index 1";0
+"Solomon";2017;"Index 1";0
+"South Africa";2017;"Index 1";1
+"Spain";2017;"Index 1";0
+"Sri Lanka";2017;"Index 1";1
+"Sweden";2017;"Index 1";0
+"Switzerland";2017;"Index 1";1
+"Tanzania";2017;"Index 1";1
+"Thailand";2017;"Index 1";1
+"Tonga";2017;"Index 1";0
+"Trinidad Tobago";2017;"Index 1";0
+"Turkey";2017;"Index 1";1
+"Uganda";2017;"Index 1";1
+"Ukraine";2017;"Index 1";1
+"U. K.";2017;"Index 1";0
+"United States";2017;"Index 1";0
+"Uruguay";2017;"Index 1";1
+"Vanuatu";2017;"Index 1";0
+"Vietnam";2017;"Index 1";0
+"West Bank";2017;"Index 1";0
+"Zambia";2017;"Index 1";1
+"Afghanistan";2017;"Index 2";0
+"Albania";2017;"Index 2";1
+"Algeria";2017;"Index 2";0
+"Angola";2017;"Index 2";1
+"Argentina";2017;"Index 2";1
+"Armenia";2017;"Index 2";1
+"Australia";2017;"Index 2";1
+"Austria";2017;"Index 2";1
+"Bangladesh";2017;"Index 2";1
+"Belarus";2017;"Index 2";1
+"Belgium";2017;"Index 2";1
+"Bhutan";2017;"Index 2";0
+"Bolivia";2017;"Index 2";1
+"Bosnia";2017;"Index 2";1
+"Botswana";2017;"Index 2";1
+"Brazil";2017;"Index 2";1
+"Brunei";2017;"Index 2";0
+"Bulgaria";2017;"Index 2";1
+"Burundi";2017;"Index 2";1
+"Cambodia";2017;"Index 2";0
+"Cameroon";2017;"Index 2";1
+"Canada";2017;"Index 2";1
+"Ctr Afr Rep";2017;"Index 2";0
+"Chad";2017;"Index 2";0
+"Chile";2017;"Index 2";1
+"Hong Kong";2017;"Index 2";1
+"Macao";2017;"Index 2";1
+"China";2017;"Index 2";0
+"Colombia";2017;"Index 2";0
+"Congo";2017;"Index 2";0
+"Costa Rica";2017;"Index 2";0
+"Croatia";2017;"Index 2";0
+"Cyprus";2017;"Index 2";0
+"Czech Republic";2017;"Index 2";1
+"Denmark";2017;"Index 2";0
+"Djibouti";2017;"Index 2";0
+"Dominican Rep";2017;"Index 2";1
+"Ecuador";2017;"Index 2";1
+"El Salvador";2017;"Index 2";0
+"Eq. Guinea";2017;"Index 2";0
+"Estonia";2017;"Index 2";0
+"Eswatini";2017;"Index 2";1
+"Fiji";2017;"Index 2";0
+"Finland";2017;"Index 2";1
+"France";2017;"Index 2";1
+"Gabon";2017;"Index 2";0
+"Gambia";2017;"Index 2";0
+"Georgia";2017;"Index 2";1
+"Germany";2017;"Index 2";0
+"Ghana";2017;"Index 2";0
+"Greece";2017;"Index 2";0
+"Guatemala";2017;"Index 2";1
+"Honduras";2017;"Index 2";0
+"Hungary";2017;"Index 2";1
+"India";2017;"Index 2";1
+"Indonesia";2017;"Index 2";1
+"Ireland";2017;"Index 2";0
+"Israel";2017;"Index 2";1
+"Italy";2017;"Index 2";1
+"Kazakhstan";2017;"Index 2";0
+"Kenya";2017;"Index 2";0
+"Korea Rep";2017;"Index 2";0
+"Kosovo";2017;"Index 2";1
+"Kuwait";2017;"Index 2";1
+"Kyrgyz Rep";2017;"Index 2";1
+"Latvia";2017;"Index 2";0
+"Lebanon";2017;"Index 2";1
+"Lesotho";2017;"Index 2";0
+"Lithuania";2017;"Index 2";0
+"Luxembourg";2017;"Index 2";0
+"Macedonia";2017;"Index 2";1
+"Madagascar";2017;"Index 2";1
+"Malaysia";2017;"Index 2";0
+"Malta";2017;"Index 2";0
+"Mauritius";2017;"Index 2";1
+"Mexico";2017;"Index 2";1
+"Moldova";2017;"Index 2";0
+"Namibia";2017;"Index 2";0
+"Netherlands";2017;"Index 2";1
+"Nicaragua";2017;"Index 2";1
+"Nigeria";2017;"Index 2";0
+"Norway";2017;"Index 2";1
+"Pakistan";2017;"Index 2";0
+"Panama";2017;"Index 2";1
+"P. N. Guinea";2017;"Index 2";1
+"Paraguay";2017;"Index 2";1
+"Peru";2017;"Index 2";0
+"Philippines";2017;"Index 2";1
+"Poland";2017;"Index 2";1
+"Portugal";2017;"Index 2";1
+"Romania";2017;"Index 2";1
+"Russia";2017;"Index 2";1
+"Rwanda";2017;"Index 2";0
+"San Marino";2017;"Index 2";1
+"Saudi Arabia";2017;"Index 2";0
+"Seychelles";2017;"Index 2";0
+"Singapore";2017;"Index 2";1
+"Slovak Rep";2017;"Index 2";1
+"Slovenia";2017;"Index 2";0
+"Solomon";2017;"Index 2";0
+"South Africa";2017;"Index 2";1
+"Spain";2017;"Index 2";1
+"Sri Lanka";2017;"Index 2";1
+"Sweden";2017;"Index 2";0
+"Switzerland";2017;"Index 2";0
+"Tanzania";2017;"Index 2";0
+"Thailand";2017;"Index 2";0
+"Tonga";2017;"Index 2";1
+"Trinidad Tobago";2017;"Index 2";1
+"Turkey";2017;"Index 2";1
+"Uganda";2017;"Index 2";1
+"Ukraine";2017;"Index 2";1
+"U. K.";2017;"Index 2";0
+"United States";2017;"Index 2";1
+"Uruguay";2017;"Index 2";1
+"Vanuatu";2017;"Index 2";0
+"Vietnam";2017;"Index 2";1
+"West Bank";2017;"Index 2";1
+"Zambia";2017;"Index 2";0
